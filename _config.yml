@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 2025-2학기
+description: 서울대학교 대학글쓰기2 강좌 강의자료
 theme: just-the-docs
+baseurl: "/2025FALL"
 
-url: https://just-the-docs.github.io
+url: https://DeepWrite.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  SNU ETL: https://etl.snu.ac.kr
+
