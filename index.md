@@ -8,12 +8,16 @@ permalink: /
 
 # 2025년 2학기 대학글쓰기2 강의게시판입니다 
 
+<br>
+
 **문의 전 반드시** 본 강의게시판의 사항들을 숙지하기 바랍니다. 
 특히 다음 사항에 유의하기 바랍니다.
 
 - [차시별 강의 내용]({{site.baseurl}}/syllabus/detail/)
 - [결석 및 공결처리]({{site.baseurl}}/attendance/)
 - [과제 제출 방법]({{site.baseurl}}/assignments/)
+
+<br>
 
 ## Think Like a Puzzle Solver: Write to Resolve Dilemmas
 
