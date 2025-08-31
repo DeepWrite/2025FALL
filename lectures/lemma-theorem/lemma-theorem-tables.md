@@ -1,3 +1,11 @@
+---
+title: 좋은 논증문의 구조 - tables
+layout: home
+nav_order: 79
+parent: 강의내용
+permalink: /lectures/lemma-tables/
+---
+
 # 좋은 논증문의 구조
 
 <div style="text-align: center;">
