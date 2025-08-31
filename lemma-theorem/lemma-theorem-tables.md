@@ -1,7 +1,7 @@
 ---
 title: 좋은 논증문의 구조 - tables
 layout: home
-nav_order: 79
+nav_order: 60
 parent: 기본 논증문 모델
 permalink: /basic-model/lemma-tables/
 ---
