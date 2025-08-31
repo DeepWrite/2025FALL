@@ -93,7 +93,7 @@ It has sometimes been assumed that a firm is limited in size under perfect compe
 It might be replied that under perfect competition, since everything that is produced can be sold at the prevailing price, then there is no need for any other product to be produced. But this argument ignores the fact that there may be a point where it is less costly to organise the exchange transactions of a new product than to organise further exchange transactions of the old product. This point can be illustrated in the following way. Imagine, following von Thunen, that there is a town, the consuming centre, and that industries are located around this central point in rings. These conditions are illustrated in the following diagram in which *A, B* and *C* represent different industries. 
 
 <div style="text-align: center;">
-  <img src="/references/Coase/coase-natureoffirm.png" width="60%" height="auto">
+  <img src="{{ site.baseurl }}/references/Coase/coase-natureoffirm.png" width="60%" height="auto">
 </div> <br>
 
 Imagine an entrepreneur who starts controlling exchange transactions from *x*. Now as he extends his activities in the same product (*B*), the cost of organising increases until at some point it becomes equal to that of a dissimilar product which is nearer. As the firm expands, it will therefore from this point include more than one product (*A* and *C*). This treatment of the problem is obviously incomplete,[^46] but it is necessary to show that merely proving that the cost curve turns upwards does not give a limitation to the size of the firm. So far we have only considered the case of perfect competition; the case of imperfect competition would appear to be obvious.

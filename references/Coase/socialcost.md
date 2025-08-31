@@ -15,7 +15,7 @@ A good example of the problem under discussion is afforded by the case of strayi
 To simplify the argument, I propose to use an arithmetical example. I shall assume that the annual cost of fencing the farmer’s property is $9 and that the price of the crop is $1 per ton. Also, I assume that the relation between the number of cattle in the herd and the annual crop loss is as follows:
 
 <div style="text-align: center;">
-  <img src="/references/Coase/social-cost.png" width="60%" height="auto">
+  <img src="{{ site.baseurl }}/references/Coase/social-cost.png" width="60%" height="auto">
 </div> <br>
 
 | Number in Herd (Steers) | Annual Crop Loss (Tons) | Crop Loss per Additional Steer (Tons) |
