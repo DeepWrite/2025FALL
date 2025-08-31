@@ -1,5 +1,5 @@
 ---
-title: 논증문의 구조 도해
+title: 좋은 논증문의 구조 도해
 layout: home
 nav_order: 77
 parent: 강의내용
