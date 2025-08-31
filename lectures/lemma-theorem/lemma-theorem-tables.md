@@ -13,7 +13,7 @@ permalink: /lectures/lemma-tables/
 </div> <br>
 
 ---
-<div class="jtddiagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 부분결론(Lemma)들, 종합(Integration), 최종결론(Theorem).">
+<div class="jtddiagram" role="img" aria-label="좋은 논증문 구조: 서론, 논제–반논제 순환을 통한 부분결론(Lemma)들, 종합(Integration), 최종결론(Theorem).">
   <style>
     .jtddiagram svg{max-width:100%;height:auto;display:block;margin:1rem 0}
     .jtddiagram .box{fill:none;stroke:currentColor;stroke-width:2;rx:12}
@@ -26,7 +26,7 @@ permalink: /lectures/lemma-tables/
 
   <svg viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
     <title id="title">좋은 논증문 구조</title>
-    <desc id="desc">상단에 서론, 이어서 세 차례의 정립→반정립 과정을 거쳐 Lemma 도출, 종합(Integration), 결론으로 이어짐.</desc>
+    <desc id="desc">상단에 서론, 이어서 세 차례의 논제→반논제 과정을 거쳐 Lemma 도출, 종합(Integration), 결론으로 이어짐.</desc>
 
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -43,38 +43,38 @@ permalink: /lectures/lemma-tables/
     <text x="600" y="142" text-anchor="middle" class="label">주제 제시 • 최종 주장(정리) 예고 • 논증 단계 안내</text>
     <line class="arrow" x1="600" y1="170" x2="600" y2="200"/>
 
-    <!-- 1번째 정립→반정립 -->
+    <!-- 1번째 논제→반논제 -->
     <rect class="box" x="100" y="220" width="320" height="90"/>
     <text x="260" y="252" text-anchor="middle" class="label bold">They Say</text>
-    <text x="260" y="274" text-anchor="middle" class="label">정립 #1 (기존 견해)</text>
+    <text x="260" y="274" text-anchor="middle" class="label">논제 #1 (기존 견해)</text>
 
     <rect class="box" x="780" y="220" width="320" height="90"/>
     <text x="940" y="248" text-anchor="middle" class="label bold">I Say</text>
-    <text x="940" y="270" text-anchor="middle" class="label">반정립 → Lemma #1</text>
+    <text x="940" y="270" text-anchor="middle" class="label">반논제 → Lemma #1</text>
 
     <line class="arrow" x1="420" y1="265" x2="780" y2="265"/>
     <line class="arrow" x1="940" y1="310" x2="940" y2="340"/>
 
-    <!-- 2번째 정립→반정립 -->
+    <!-- 2번째 논제→반논제 -->
     <rect class="box" x="100" y="360" width="320" height="90"/>
     <text x="260" y="392" text-anchor="middle" class="label bold">They Say</text>
-    <text x="260" y="414" text-anchor="middle" class="label">정립 #2 (관련 주장)</text>
+    <text x="260" y="414" text-anchor="middle" class="label">논제 #2 (관련 주장)</text>
 
     <rect class="box" x="780" y="360" width="320" height="90"/>
     <text x="940" y="388" text-anchor="middle" class="label bold">I Say</text>
-    <text x="940" y="410" text-anchor="middle" class="label">반정립 → Lemma #2</text>
+    <text x="940" y="410" text-anchor="middle" class="label">반논제 → Lemma #2</text>
 
     <line class="arrow" x1="420" y1="405" x2="780" y2="405"/>
     <line class="arrow" x1="940" y1="450" x2="940" y2="480"/>
 
-    <!-- 3번째 정립→반정립 -->
+    <!-- 3번째 논제→반논제 -->
     <rect class="box" x="100" y="500" width="320" height="90"/>
     <text x="260" y="532" text-anchor="middle" class="label bold">They Say</text>
-    <text x="260" y="554" text-anchor="middle" class="label">정립 #3 (추가 주장)</text>
+    <text x="260" y="554" text-anchor="middle" class="label">논제 #3 (추가 주장)</text>
 
     <rect class="box" x="780" y="500" width="320" height="90"/>
     <text x="940" y="528" text-anchor="middle" class="label bold">I Say</text>
-    <text x="940" y="550" text-anchor="middle" class="label">반정립 → Lemma #3</text>
+    <text x="940" y="550" text-anchor="middle" class="label">반논제 → Lemma #3</text>
 
     <line class="arrow" x1="420" y1="545" x2="780" y2="545"/>
 
@@ -95,7 +95,7 @@ permalink: /lectures/lemma-tables/
 
     <!-- 캡션 -->
     <text x="600" y="830" text-anchor="middle" class="caption">
-      좋은 논증문은 “They Say → I Say(반정립→Lemma)” 순환을 거쳐,
+      좋은 논증문은 “They Say → I Say(반논제→Lemma)” 순환을 거쳐,
       종합(Integration)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화한다.
     </text>
   </svg>
@@ -147,9 +147,9 @@ permalink: /lectures/lemma-tables/
   }
 </style>
 
-<div class="arg-diagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 Lemma들, 종합(Integration), 결론.">
+<div class="arg-diagram" role="img" aria-label="좋은 논증문 구조: 서론, 논제–반논제 순환을 통한 Lemma들, 종합(Integration), 결론.">
   <div class="title">좋은 논증문 구조</div>
-  <div class="subtitle">“They Say → I Say(반정립) → Lemma(부분 결론)”을 누적하여 최종 결론으로</div>
+  <div class="subtitle">“They Say → I Say(반논제) → Lemma(부분 결론)”을 누적하여 최종 결론으로</div>
 
   <div class="grid">
 
@@ -163,37 +163,37 @@ permalink: /lectures/lemma-tables/
       </div>
     </div>
 
-    <!-- 1번째 정립 → 반정립/Lemma -->
-    <div class="lane" aria-label="1번째 정립에서 반정립과 Lemma로">
+    <!-- 1번째 논제 → 반논제/Lemma -->
+    <div class="lane" aria-label="1번째 논제에서 반논제과 Lemma로">
       <div class="arg-box">
         <span class="kicker">They Say · Thesis #1</span>
-        <h3>정립 #1 (기존 견해)</h3>
+        <h3>논제 #1 (기존 견해)</h3>
         <div class="small">문헌·통설에서 널리 수용되는 주장/전제를 공정하게 요약합니다.</div>
         <div class="hint">※ 스트로맨 금지: 상대 견해를 정확·공정하게 기술</div>
       </div>
       <div class="arrow-right" aria-hidden="true">➜</div>
       <div class="arg-box">
         <span class="kicker">I Say · Anti-thesis → Lemma #1</span>
-        <h3>핵심 반정립 제시 → 부분 결론 도출</h3>
+        <h3>핵심 반논제 제시 → 부분 결론 도출</h3>
         <div class="small">
-          “그러나/반대로/이 견해는 ~를 간과한다”처럼 <b>정확히 겨냥한 반정립</b>을 제시하고,
+          “그러나/반대로/이 견해는 ~를 간과한다”처럼 <b>정확히 겨냥한 반논제</b>을 제시하고,
           데이터·사례·논변으로 뒷받침하여 <b>부분 결론(Lemma #1)</b>을 명시적으로 정리합니다.
         </div>
       </div>
     </div>
     <div class="connector" aria-hidden="true">▼ 다음 쟁점(Thesis #2)로 진행</div>
 
-    <!-- 2번째 정립 → 반정립/Lemma -->
-    <div class="lane" aria-label="2번째 정립에서 반정립과 Lemma로">
+    <!-- 2번째 논제 → 반논제/Lemma -->
+    <div class="lane" aria-label="2번째 논제에서 반논제과 Lemma로">
       <div class="arg-box">
         <span class="kicker">They Say · Thesis #2</span>
-        <h3>정립 #2 (관련 주장)</h3>
+        <h3>논제 #2 (관련 주장)</h3>
         <div class="small">첫 전제와 연결되거나 그 결과로 따라오는 또 다른 통설/가정을 소개합니다.</div>
       </div>
       <div class="arrow-right" aria-hidden="true">➜</div>
       <div class="arg-box">
         <span class="kicker">I Say · Anti-thesis → Lemma #2</span>
-        <h3>두 번째 반정립 → 두 번째 부분 결론</h3>
+        <h3>두 번째 반논제 → 두 번째 부분 결론</h3>
         <div class="small">
           반례·측정 결과·텍스트 근거 등으로 정밀하게 논증하여 <b>Lemma #2</b>를 도출합니다.
           <div class="hint">이전 Lemma와의 연결(전이 문장)로 누적 논증임을 분명히 합니다.</div>
@@ -201,17 +201,17 @@ permalink: /lectures/lemma-tables/
       </div>
     </div>
 
-    <!-- 3번째 정립 → 반정립/Lemma -->
-    <div class="lane" aria-label="3번째 정립에서 반정립과 Lemma로">
+    <!-- 3번째 논제 → 반논제/Lemma -->
+    <div class="lane" aria-label="3번째 논제에서 반논제과 Lemma로">
       <div class="arg-box">
         <span class="kicker">They Say · Thesis #3</span>
-        <h3>정립 #3 (추가 주장)</h3>
-        <div class="small">앞선 정립들과 연동되는 추가적인 통설 혹은 세부 주장입니다.</div>
+        <h3>논제 #3 (추가 주장)</h3>
+        <div class="small">앞선 논제들과 연동되는 추가적인 통설 혹은 세부 주장입니다.</div>
       </div>
       <div class="arrow-right" aria-hidden="true">➜</div>
       <div class="arg-box">
         <span class="kicker">I Say · Anti-thesis → Lemma #3</span>
-        <h3>세 번째 반정립 → 세 번째 부분 결론</h3>
+        <h3>세 번째 반논제 → 세 번째 부분 결론</h3>
         <div class="small">핵심 근거를 제시하고, 해당 섹션의 <b>부분 결론(Lemma #3)</b>을 명확히 적시합니다.</div>
       </div>
     </div>
@@ -240,7 +240,7 @@ permalink: /lectures/lemma-tables/
 
     <!-- 캡션 -->
     <div class="connector" role="note">
-      좋은 논증문은 “They Say → I Say(반정립→Lemma)” 순환을 거쳐,
+      좋은 논증문은 “They Say → I Say(반논제→Lemma)” 순환을 거쳐,
       종합(Integration)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화합니다.
     </div>
 
@@ -274,7 +274,7 @@ permalink: /lectures/lemma-tables/
 ## 기타 시각자료
 
 1. **Lemma→Theorem 사다리**
-   “They Say → Anti-thesis(=Lemma) × n → Theorem” 흐름을 한 눈에 보여주는 핵심 개념도. 각 반정립(anti-thesis)이 독립된 부분결론(Lemma)로 승격되고, 이것들이 종합되어 최종 결론(Theorem)으로 귀결되는 구조를 시각화했습니다.
+   “They Say → Anti-thesis(=Lemma) × n → Theorem” 흐름을 한 눈에 보여주는 핵심 개념도. 각 반논제(anti-thesis)이 독립된 부분결론(Lemma)로 승격되고, 이것들이 종합되어 최종 결론(Theorem)으로 귀결되는 구조를 시각화했습니다.
 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/lectures/lemma-theorem/01_lemma_theorem_ladder.png" width="80%" height="auto">
@@ -328,7 +328,7 @@ permalink: /lectures/lemma-tables/
   <figcaption><strong>핵심 개념도: “They Say → Anti-thesis(=Lemma) × n → Theorem”</strong></figcaption>
   <svg viewBox="0 0 1000 620" width="100%" role="img" aria-labelledby="fig1-title fig1-desc">
     <title id="fig1-title">논증 사다리</title>
-    <desc id="fig1-desc">기존 논지(They Say)에서 시작해, 반정립(Anti-thesis)을 부분결론(Lemma)으로 정식화하고, 여러 Lemma를 종합해 Theorem으로 나아가는 흐름</desc>
+    <desc id="fig1-desc">기존 논지(They Say)에서 시작해, 반논제(Anti-thesis)을 부분결론(Lemma)으로 정식화하고, 여러 Lemma를 종합해 Theorem으로 나아가는 흐름</desc>
     <defs>
       <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
         <path d="M0,0 L0,6 L6,3 z"></path>
