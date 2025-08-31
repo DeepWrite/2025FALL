@@ -1,3 +1,11 @@
+---
+title: 좋은 논증문의 기본 모델
+layout: home
+nav_order: 69
+parent: 강의내용
+permalink: /lectures/model/
+---
+
 # 보조정리(Lemma), 반정립(Anti-Thesis), 그리고 정리(Theorem): 단계별 논증 구축
 
 ## 학습 목표
