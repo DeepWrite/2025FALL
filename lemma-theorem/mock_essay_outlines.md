@@ -56,14 +56,17 @@ permalink: /basic-model/lemma-samples/
 
 <div class="toc">
   <strong>바로가기</strong>
-  <a href="#prospect">① 사회과학 예시: 전망이론(Prospect Theory)로 재구성</a>
-  <a href="#geertz">② 인문학 예시: Geertz의 해석인류학으로 재해석</a>
+  <a href="#prospect">①-1 사회과학 예시: 전망이론(Prospect Theory)로 재구성</a>
+  <a href="#geertz">①-2 사회과학 예시:  Geertz의 해석인류학으로 재해석</a>
+  <a href="#aesthetics">②-1 인문학 예시: 미학 — 칸트의 ‘무목적적 합목적성’</a>
+  <a href="#history">②-2 인문학 예시: 역사학 — Collingwood의 ‘사고의 재구성’</a>
+  <a href="#literature">②-3 인문학 예시: 문학 — Barthes의 ‘저자의 죽음’</a>
   <a href="#template">③ 공통 템플릿: Lemma 카드 & 문단 프롬프트</a>
   <a href="#rubric">④ 평가 체크리스트</a>
 </div>
 
 <!-- 1) Social Science Example -->
-<h2 id="prospect">① 사회과학 예시: 전망이론(Prospect Theory)로 재구성</h2>
+<h2 id="prospect">①-1 사회과학 예시: 전망이론(Prospect Theory)로 재구성</h2>
 <p class="callout"><strong>주제 제안:</strong> “인간의 위험하 의사결정은 기대효용이론(EUT)이 아니라 전망이론으로 더 잘 설명된다.”<br>
 <strong>Theorem(최종 주장):</strong> 손실회피·확률가중·프레이밍 효과를 누적적으로 입증함으로써, 전망이론이 설명우위를 가진다는 결론에 도달한다.</p>
 
@@ -156,10 +159,7 @@ permalink: /basic-model/lemma-samples/
   ⬚ <strong>인용 삽입 자리(저작권 보호)</strong>: Kahneman &amp; Tversky (1979) 확실성효과·확률가중·손실회피 핵심 구절 — <em>추후 직접 인용문과 서지 추가</em>.
 </div>
 
-<hr>
-
-<!-- 2) Humanities Example -->
-<h2 id="geertz">② 인문학 예시: Geertz의 해석인류학으로 재해석</h2>
+<h2 id="geertz">①-2 사회과학 예시: Geertz의 해석인류학으로 재해석</h2>
 <p class="callout"><strong>주제 제안:</strong> “문화는 법칙의 대상이 아니라 ‘두꺼운 서술’이 요구되는 해석의 대상이다.”<br>
 <strong>Theorem(최종 주장):</strong> 문화=‘의미의 그물’을 해석하는 학으로서 인류학을 재정립한다.</p>
 
@@ -250,6 +250,111 @@ permalink: /basic-model/lemma-samples/
 
 <div class="place">
   ⬚ <strong>인용 삽입 자리(저작권 보호)</strong>: Geertz, “webs of significance”, “thick description” 핵심 문장 — <em>추후 직접 인용문과 서지 추가</em>.
+</div>
+
+<hr>
+<!-- 2-1) Humanities Example: 미학 -->
+<h2 id="aesthetics">②-1 인문학 예시: 미학 — 칸트의 ‘무목적적 합목적성’</h2>
+<p class="callout"><strong>주제 제안:</strong> “예술은 단순한 쾌락이나 기술이 아니라, 보편적 타당성을 지닌 판단의 영역이다.”<br>
+<strong>Theorem(최종 주장):</strong> 예술은 ‘무목적적 합목적성’을 통해 주관성과 보편성을 매개한다.</p>
+
+<div class="flow" aria-label="aesthetics outline">
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    미=쾌락의 주관적 경험(단순한 감각적 즐거움).
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 1</strong><br>
+    칸트: 미 판단은 단순한 쾌락이 아니라 <em>무목적적 합목적성</em> — 보편적 소통성을 요구한다.
+  </div>
+
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    예술=도덕적 교훈 전달 수단.
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 2</strong><br>
+    칸트: 예술은 도덕성에 종속되지 않으며, <em>자율적 영역</em>으로서 자유판단을 이끌어낸다.
+  </div>
+
+  <div class="node theorem">
+    <strong>THEOREM · 최종 종합</strong><br>
+    미학적 판단은 주관과 보편을 매개하며, 예술을 자율적 영역으로 정립한다.
+  </div>
+</div>
+
+---
+
+<!-- 2-2) Humanities Example: 역사학 -->
+<h2 id="history">②-2 인문학 예시: 역사학 — Collingwood의 ‘사고의 재구성’</h2>
+<p class="callout"><strong>주제 제안:</strong> “역사는 사실의 나열이 아니라 과거 사고의 재구성이다.”<br>
+<strong>Theorem(최종 주장):</strong> 역사학은 과거 행위자의 사고와 맥락을 해석·재현하는 인문학적 탐구다.</p>
+
+<div class="flow" aria-label="history outline">
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    역사는 객관적 사실의 연대기 기록이다.
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 1</strong><br>
+    Collingwood: 사실 자체는 죽은 것 — 역사는 <em>사고의 재구성</em>이어야 한다.
+  </div>
+
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    사료는 사실 그 자체를 전한다.
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 2</strong><br>
+    사료는 해석을 통해서만 의미를 가진다 — 역사가의 <em>질문과 맥락</em>이 핵심.
+  </div>
+
+  <div class="node theorem">
+    <strong>THEOREM · 최종 종합</strong><br>
+    역사학은 사실 기록이 아니라 과거 사고를 재구성하는 해석적 학문이다.
+  </div>
+</div>
+
+---
+
+<!-- 2-3) Humanities Example: 문학 -->
+<h2 id="literature">②-3 인문학 예시: 문학 — Barthes의 ‘저자의 죽음’</h2>
+<p class="callout"><strong>주제 제안:</strong> “문학 텍스트의 의미는 저자 의도에 고정되지 않는다.”<br>
+<strong>Theorem(최종 주장):</strong> 문학의 해석은 독자와 담론 속에서 새롭게 생성된다.</p>
+
+<div class="flow" aria-label="literature outline">
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    문학 작품의 의미=저자의 의도와 동일.
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 1</strong><br>
+    Barthes: 저자는 더 이상 특권적 의미의 주체가 아니다 — <em>저자의 죽음</em>.
+  </div>
+
+  <div class="node thesis">
+    <strong>They Say · Thesis</strong><br>
+    독자는 저자의 의도를 단순 추적해야 한다.
+  </div>
+  <div class="arrow"></div>
+  <div class="node lemma">
+    <strong>I Say · Anti-thesis → Lemma 2</strong><br>
+    의미는 독자·텍스트·담론 공동체의 상호작용 속에서 <em>생성</em>된다.
+  </div>
+
+  <div class="node theorem">
+    <strong>THEOREM · 최종 종합</strong><br>
+    문학 해석은 저자의 의도에 종속되지 않고, 독자와 담론 속에서 끊임없이 새롭게 구성된다.
+  </div>
+</div>
+
+<div class="place">
+  ⬚ <strong>인용 삽입 자리(저작권 보호)</strong>: Kant, <em>Kritik der Urteilskraft</em>; Collingwood, <em>The Idea of History</em>; Barthes, “La mort de l’auteur” — <em>추후 직접 인용문과 서지 추가</em>.
 </div>
 
 <hr>
