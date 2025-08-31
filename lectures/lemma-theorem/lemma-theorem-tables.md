@@ -45,11 +45,11 @@ permalink: /lectures/lemma-tables/
 
     <!-- 1번째 논제→반론 -->
     <rect class="box" x="100" y="220" width="320" height="90"/>
-    <text x="260" y="252" text-anchor="middle" class="label bold">그들은 말한다</text>
+    <text x="260" y="252" text-anchor="middle" class="label bold">They Say</text>
     <text x="260" y="274" text-anchor="middle" class="label">논제 #1 (기존 견해)</text>
 
     <rect class="box" x="780" y="220" width="320" height="90"/>
-    <text x="940" y="248" text-anchor="middle" class="label bold">나는 말한다</text>
+    <text x="940" y="248" text-anchor="middle" class="label bold">I Say</text>
     <text x="940" y="270" text-anchor="middle" class="label">반론 → 레마 #1</text>
 
     <line class="arrow" x1="420" y1="265" x2="780" y2="265"/>
@@ -57,11 +57,11 @@ permalink: /lectures/lemma-tables/
 
     <!-- 2번째 논제→반론 -->
     <rect class="box" x="100" y="360" width="320" height="90"/>
-    <text x="260" y="392" text-anchor="middle" class="label bold">그들은 말한다</text>
+    <text x="260" y="392" text-anchor="middle" class="label bold">They Say</text>
     <text x="260" y="414" text-anchor="middle" class="label">논제 #2 (관련 주장)</text>
 
     <rect class="box" x="780" y="360" width="320" height="90"/>
-    <text x="940" y="388" text-anchor="middle" class="label bold">나는 말한다</text>
+    <text x="940" y="388" text-anchor="middle" class="label bold">I Say</text>
     <text x="940" y="410" text-anchor="middle" class="label">반론 → 레마 #2</text>
 
     <line class="arrow" x1="420" y1="405" x2="780" y2="405"/>
@@ -69,11 +69,11 @@ permalink: /lectures/lemma-tables/
 
     <!-- 3번째 논제→반론 -->
     <rect class="box" x="100" y="500" width="320" height="90"/>
-    <text x="260" y="532" text-anchor="middle" class="label bold">그들은 말한다</text>
+    <text x="260" y="532" text-anchor="middle" class="label bold">They Say</text>
     <text x="260" y="554" text-anchor="middle" class="label">논제 #3 (추가 주장)</text>
 
     <rect class="box" x="780" y="500" width="320" height="90"/>
-    <text x="940" y="528" text-anchor="middle" class="label bold">나는 말한다</text>
+    <text x="940" y="528" text-anchor="middle" class="label bold">I Say</text>
     <text x="940" y="550" text-anchor="middle" class="label">반론 → 레마 #3</text>
 
     <line class="arrow" x1="420" y1="545" x2="780" y2="545"/>
@@ -95,7 +95,7 @@ permalink: /lectures/lemma-tables/
 
     <!-- 캡션 -->
     <text x="600" y="830" text-anchor="middle" class="caption">
-      좋은 논증문은 “그들은 말한다 → 나는 말한다(반론→레마)” 순환을 거쳐,
+      좋은 논증문은 “They Say → I Say(반론→레마)” 순환을 거쳐,
       종합을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화한다.
     </text>
   </svg>
