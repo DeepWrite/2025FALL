@@ -13,7 +13,7 @@ permalink: /lectures/lemma-tables/
 </div> <br>
 
 ---
-<div class="jtddiagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 부분결론(Lemma)들, 종합(Synthesis), 최종결론(Theorem).">
+<div class="jtddiagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 부분결론(Lemma)들, 종합(Integration), 최종결론(Theorem).">
   <style>
     .jtddiagram svg{max-width:100%;height:auto;display:block;margin:1rem 0}
     .jtddiagram .box{fill:none;stroke:currentColor;stroke-width:2;rx:12}
@@ -26,7 +26,7 @@ permalink: /lectures/lemma-tables/
 
   <svg viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
     <title id="title">좋은 논증문 구조</title>
-    <desc id="desc">상단에 서론, 이어서 세 차례의 정립→반정립 과정을 거쳐 Lemma 도출, 종합(Synthesis), 결론으로 이어짐.</desc>
+    <desc id="desc">상단에 서론, 이어서 세 차례의 정립→반정립 과정을 거쳐 Lemma 도출, 종합(Integration), 결론으로 이어짐.</desc>
 
     <defs>
       <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
@@ -96,7 +96,7 @@ permalink: /lectures/lemma-tables/
     <!-- 캡션 -->
     <text x="600" y="830" text-anchor="middle" class="caption">
       좋은 논증문은 “They Say → I Say(반정립→Lemma)” 순환을 거쳐,
-      종합(Synthesis)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화한다.
+      종합(Integration)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화한다.
     </text>
   </svg>
 </div>
@@ -147,7 +147,7 @@ permalink: /lectures/lemma-tables/
   }
 </style>
 
-<div class="arg-diagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 Lemma들, 종합(Synthesis), 결론.">
+<div class="arg-diagram" role="img" aria-label="좋은 논증문 구조: 서론, 정립–반정립 순환을 통한 Lemma들, 종합(Integration), 결론.">
   <div class="title">좋은 논증문 구조</div>
   <div class="subtitle">“They Say → I Say(반정립) → Lemma(부분 결론)”을 누적하여 최종 결론으로</div>
 
@@ -220,7 +220,7 @@ permalink: /lectures/lemma-tables/
 
     <!-- 종합 -->
     <div class="arg-box centered">
-      <span class="kicker">Synthesis · 종합</span>
+      <span class="kicker">Integration · 종합</span>
       <h3>여러 Lemma 통합 → 누적적 논증</h3>
       <div class="small">
         각각의 부분 결론이 <b>서로 어떻게 결합되어</b> 하나의 강한 주장으로 귀결되는지 구조적으로 보여줍니다.
@@ -241,7 +241,7 @@ permalink: /lectures/lemma-tables/
     <!-- 캡션 -->
     <div class="connector" role="note">
       좋은 논증문은 “They Say → I Say(반정립→Lemma)” 순환을 거쳐,
-      종합(Synthesis)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화합니다.
+      종합(Integration)을 통해 최종 주장(정리)에 도달하고 결론에서 이를 강화합니다.
     </div>
 
   </div>
@@ -261,7 +261,7 @@ permalink: /lectures/lemma-tables/
   * 근거 제시 후 Lemma(부분 결론)로 정리
   * 누적된 Lemma들이 다음 단계의 토대를 형성
 
-* **Synthesis (종합)**
+* **Integration (종합)**
   누적된 Lemma들을 결합하여 **최종 논증 구조** 완성
 
 * **Conclusion (결론)**
