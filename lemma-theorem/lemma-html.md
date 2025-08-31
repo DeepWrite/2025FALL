@@ -2,8 +2,8 @@
 title: 좋은 논증문의 구조 도해
 layout: home
 nav_order: 77
-parent: 강의내용
-permalink: /lectures/lemma/
+parent: 기본 논증문 모델
+permalink: /basic-model/lemma/
 ---
 
 <!-- 좋은 논증문 구조 도해 (한국어 번역, Just the Docs-ready) -->
