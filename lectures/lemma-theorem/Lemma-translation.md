@@ -143,28 +143,3 @@ permalink: /lectures/model/
    개요를 완성한 뒤에는 검토하라: 모든 반정립이 최종 주장을 지지하는가? 하나가 무관해 보인다면, 최종 주장이나 보조정리 선택을 수정해야 할 수도 있다. 개요를 동료 학생이나 교수와 공유하여 피드백을 받아라. 그리고 각 부분이 어떻게 상호작용하는지 몇 문장으로 설명하라(예: “먼저 X를 보여줄 필요가 있다(왜냐하면 다른 이들은 ¬X라고 가정하기 때문이다). 그 다음 Y로 이동하는데, 이는 X를 기반으로 하기 때문이다.”). 상대방의 질문은 연결이 분명한지 확인하는 데 도움이 될 것이다. 이 과제는 추상적 조언을 당신의 글쓰기 계획으로 **구체화**하는 데 유익하다. 
 
 이 단계들을 연습하면서—타인의 정립을 식별하고, 자신의 반정립을 산출하며, 이를 뒷받침하고, 흐름을 조직하는 과정을 통해—당신은 복잡한 논증을 구성하는 데 자신감을 얻게 될 것이다. 시간이 지나면 이 접근은 습관이 되어, 당신의 글쓰기가 자연스럽게 더 **대화적(dialogic)**(출처와의 교류)이고, 더 **논리적으로 설득력** 있게 될 것이다. 기억하라: 학계의 논증적 글쓰기의 목표는 **단순히 자신의 아이디어를 주장하는 것**이 아니라, 그것을 **이미 알려진 바와 관련하여 위치시키고(contexualize)**, 그 대화를 한 걸음 진전시키는 것**이다. 보조정리와 최종 정리의 관점에서 사고하는 것은 이를 달성하는 강력한 방법이다. 연습을 통해, 당신은 독자들을 한 걸음씩 새로운 시각으로 이끌 수 있을 것이다—이는 학문적 작업에서 가장 보람 있는 성취 중 하나다.
-
----
-
-[^1]:  [^28]:  [^29]:  [^30]:  [^31]:  [^32]:  [^33]:  [^34]:  [^35]:  Academic Writing — Framing an Argument as They Say, I Say – David Labaree on Schooling, History, and Writing <https://davidlabaree.com/2022/02/10/academic-writing-framing-an-argument-as-they-say-i-say/>
-
-[^2]:  [^3]:  [^4]:  [^5]:  The Interpretation of Cultures - Wikipedia <https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures>
-
-[^6]:  [^7]:  [^8]:  TheProblemofSocialCost.md
- <file://file-E1sG3LJRsdvMmDP6rvRoU7>
-
-[^9]:  [^11]:  James M. Buchanan and why government can’t do it allPhilanthropy Daily <https://philanthropydaily.com/james-m-buchanan-and-why-government-cant-do-it-all/>
-
-[^10]:  The Naked Emperor: Politics without Romance in The Calculus of Consent <https://www.independent.org/wp-content/uploads/tir/2020/03/tir_24_4_11_shughart.pdf>
-
-[^12]:  [^13]:  [^14]:  [^15]:  [^16]:  Prospect Theory: An Analysis of Decision under Risk <https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf>
-
-[^17]:  [^18]:  Prospect theory - Wikipedia <https://en.wikipedia.org/wiki/Prospect_theory>
-
-[^19]:  Discipline and Punish - Wikipedia <https://en.wikipedia.org/wiki/Discipline_and_Punish>
-
-[^20]:  Michel Foucault - Stanford Encyclopedia of Philosophy <https://plato.stanford.edu/entries/foucault/>
-
-[^21]: #:~:text=world%20%27s%20commonly%20contemptuous%20depiction,1) Orientalism (book) - Wikipedia <https://en.wikipedia.org/wiki/Orientalism_(book)>
-
-[^22]:  [^23]:  [^24]:  [^25]:  [^26]:  [^27]:  Feminism/Literature/Gender Trouble - Wikibooks, open books for an open world <https://en.wikibooks.org/wiki/Feminism/Literature/Gender_Trouble>
