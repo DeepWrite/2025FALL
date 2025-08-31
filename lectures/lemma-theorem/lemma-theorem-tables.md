@@ -9,7 +9,7 @@ permalink: /lectures/lemma-tables/
 # 좋은 논증문의 구조
 
 <div style="text-align: center;">
-  <img src="/assets/images/good_argument_structure.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/good_argument_structure.png" width="80%" height="auto">
 </div> <br>
 
 ---
@@ -202,14 +202,14 @@ permalink: /lectures/lemma-tables/
    “They Say → Anti-thesis(=Lemma) × n → Theorem” 흐름을 한 눈에 보여주는 핵심 개념도. 각 반론(anti-thesis)이 독립된 부분결론(Lemma)로 승격되고, 이것들이 종합되어 최종 결론(Theorem)으로 귀결되는 구조를 시각화했습니다.
 
 <div style="text-align: center;">
-  <img src="/assets/images/01_lemma_theorem_ladder.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/01_lemma_theorem_ladder.png" width="80%" height="auto">
 </div> <br>
 
 2. **분야별 경로(사회과학 vs 인문학)**
    동일한 ‘They Say → I Say’ 구조가 사회과학(가설/모형 비판→실증근거→Lemma)과 인문학(재해석→근거 텍스트/맥락→Lemma)에서 어떻게 달리 전개되는지 분기 다이어그램으로 제시했습니다. 두 갈래가 아래의 Theorem에서 합류합니다.
 
 <div style="text-align: center;">
-  <img src="/assets/images/02_discipline_pathways.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/02_discipline_pathways.png" width="80%" height="auto">
 </div> <br>
 
 
@@ -217,7 +217,7 @@ permalink: /lectures/lemma-tables/
    수업 활동용 빈 표. 각 행에 “Thesis(They Say) → Anti-thesis(I Say) → Evidence → Lemma”를 채워 넣게 되어 있어, 학생들이 자신의 논증 골격을 바로 설계할 수 있습니다. 프린트 배포용으로 적합합니다.
 
 <div style="text-align: center;">
-  <img src="/assets/images/03_outline_planner.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/03_outline_planner.png" width="80%" height="auto">
 </div> <br>
 
 
@@ -225,7 +225,7 @@ permalink: /lectures/lemma-tables/
    “기대효용이론(Thesis) → 확실성효과/확률가중/손실회피(각 Anti-thesis→Lemma) → Prospect Theory(Theorem)”로 이어지는 대표 사회과학 사례를 흐름도로 정리했습니다. 수업 중 사례 설명용으로 좋습니다.
 
 <div style="text-align: center;">
-  <img src="/assets/images/04_case_map_prospect_theory.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/04_case_map_prospect_theory.png" width="80%" height="auto">
 </div> <br>
 
 
@@ -233,7 +233,7 @@ permalink: /lectures/lemma-tables/
    Anti-thesis를 Lemma로 만드는 실천 체크리스트(옳은 습관 vs 흔한 함정)를 표로 정리했습니다. 과제 피드백 기준으로도 활용 가능합니다.
 
 <div style="text-align: center;">
-  <img src="/assets/images/05_checklist_do_dont.png" width="80%" height="auto">
+  <img src="{{ site.baseurl }}/assets/images/05_checklist_do_dont.png" width="80%" height="auto">
 </div> <br>
 
 
