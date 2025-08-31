@@ -85,7 +85,7 @@ permalink: /basic-model/lemma-samples-social/
   <div class="arrow"></div>
   <div class="node lemma">
     <strong>I Say · Anti-thesis → Lemma 3</strong><br>
-    혼잡통행료는 첨두 수요를 분산시키고 대중교통 전환을 촉진하며 재원을 확보한다.
+    혼잡통행료는 첨두 수요(peak demand)를 분산시키고 대중교통 전환을 촉진하며 재원을 확보한다.
   </div>
 
   <div></div>
