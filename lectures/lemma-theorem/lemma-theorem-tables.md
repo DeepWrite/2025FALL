@@ -14,6 +14,95 @@ permalink: /lectures/lemma-tables/
 
 ---
 
+<div class="jtddiagram" role="img" aria-label="Structure of a good argumentative essay: introduction, thesis–anti-thesis cycles to lemmas, synthesis, and conclusion.">
+  <style>
+    .jtddiagram svg{max-width:100%;height:auto;display:block;margin:1rem 0}
+    .jtddiagram .box{fill:none;stroke:currentColor;stroke-width:2;rx:12}
+    .jtddiagram .title{font-weight:700;font-size:20px}
+    .jtddiagram .label{font-size:14px}
+    .jtddiagram .bold{font-weight:600}
+    .jtddiagram .arrow{stroke:currentColor;stroke-width:2;fill:none;marker-end:url(#arrowhead)}
+    .jtddiagram .caption{font-size:12px;opacity:.8}
+  </style>
+
+  <svg viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Structure of a Good Argumentative Essay</title>
+    <desc id="desc">Shows introduction at top; three Thesis→Anti-thesis cycles producing Lemmas; synthesis; conclusion.</desc>
+
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="currentColor"/>
+      </marker>
+    </defs>
+
+    <!-- Title -->
+    <text x="600" y="60" text-anchor="middle" class="title">Structure of a Good Argumentative Essay</text>
+
+    <!-- Introduction -->
+    <rect class="box" x="450" y="90" width="300" height="80"/>
+    <text x="600" y="120" text-anchor="middle" class="label bold">Introduction</text>
+    <text x="600" y="142" text-anchor="middle" class="label">Topic • Theorem (preview) • Roadmap</text>
+    <line class="arrow" x1="600" y1="170" x2="600" y2="200"/>
+
+    <!-- Row 1: Thesis #1 → Anti-thesis/Lemma #1 -->
+    <rect class="box" x="100" y="220" width="320" height="90"/>
+    <text x="260" y="252" text-anchor="middle" class="label bold">They Say</text>
+    <text x="260" y="274" text-anchor="middle" class="label">Thesis #1 (established view)</text>
+
+    <rect class="box" x="780" y="220" width="320" height="90"/>
+    <text x="940" y="248" text-anchor="middle" class="label bold">I Say</text>
+    <text x="940" y="270" text-anchor="middle" class="label">Anti-thesis → Lemma #1</text>
+
+    <line class="arrow" x1="420" y1="265" x2="780" y2="265"/>
+    <line class="arrow" x1="940" y1="310" x2="940" y2="340"/>
+
+    <!-- Row 2: Thesis #2 → Anti-thesis/Lemma #2 -->
+    <rect class="box" x="100" y="360" width="320" height="90"/>
+    <text x="260" y="392" text-anchor="middle" class="label bold">They Say</text>
+    <text x="260" y="414" text-anchor="middle" class="label">Thesis #2 (related premise)</text>
+
+    <rect class="box" x="780" y="360" width="320" height="90"/>
+    <text x="940" y="388" text-anchor="middle" class="label bold">I Say</text>
+    <text x="940" y="410" text-anchor="middle" class="label">Anti-thesis → Lemma #2</text>
+
+    <line class="arrow" x1="420" y1="405" x2="780" y2="405"/>
+    <line class="arrow" x1="940" y1="450" x2="940" y2="480"/>
+
+    <!-- Row 3: Thesis #3 → Anti-thesis/Lemma #3 -->
+    <rect class="box" x="100" y="500" width="320" height="90"/>
+    <text x="260" y="532" text-anchor="middle" class="label bold">They Say</text>
+    <text x="260" y="554" text-anchor="middle" class="label">Thesis #3 (further claim)</text>
+
+    <rect class="box" x="780" y="500" width="320" height="90"/>
+    <text x="940" y="528" text-anchor="middle" class="label bold">I Say</text>
+    <text x="940" y="550" text-anchor="middle" class="label">Anti-thesis → Lemma #3</text>
+
+    <line class="arrow" x1="420" y1="545" x2="780" y2="545"/>
+
+    <!-- From last lemma to Synthesis (angled path) -->
+    <path class="arrow" d="M 940 590 L 940 640 L 600 640"/>
+
+    <!-- Synthesis -->
+    <rect class="box" x="450" y="600" width="300" height="80"/>
+    <text x="600" y="630" text-anchor="middle" class="label bold">Synthesis</text>
+    <text x="600" y="652" text-anchor="middle" class="label">Integrate Lemmas → cumulative case</text>
+
+    <line class="arrow" x1="600" y1="680" x2="600" y2="710"/>
+
+    <!-- Conclusion -->
+    <rect class="box" x="450" y="710" width="300" height="80"/>
+    <text x="600" y="740" text-anchor="middle" class="label bold">Conclusion</text>
+    <text x="600" y="762" text-anchor="middle" class="label">Restate Theorem • Show support • Implications</text>
+
+    <!-- Caption -->
+    <text x="600" y="830" text-anchor="middle" class="caption">
+      A good essay cycles through “They Say → I Say (Anti-thesis → Lemma)”, then synthesizes lemmas into a Theorem and concludes.
+    </text>
+  </svg>
+</div>
+
+---
+
 <!-- =========================================================
      좋은 논증문 구조 (They Say → I Say(anti-thesis) → Lemma … → Theorem)
      Just the Docs 호환: 페이지 내 HTML 블록로 바로 사용 가능
