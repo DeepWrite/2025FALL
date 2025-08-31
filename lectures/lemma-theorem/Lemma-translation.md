@@ -1,7 +1,7 @@
 ---
 title: 좋은 논증문의 기본 모델
 layout: home
-nav_order: 69
+nav_order: 71
 parent: 강의내용
 permalink: /lectures/model/
 ---
