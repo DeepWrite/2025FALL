@@ -6,7 +6,6 @@ parent: 기본 논증문 모델
 permalink: /basic-model/lemma-samples/
 ---
 
-<!doctype html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
