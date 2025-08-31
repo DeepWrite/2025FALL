@@ -209,7 +209,7 @@ permalink: /lectures/lemma-tables/
    동일한 ‘They Say → I Say’ 구조가 사회과학(가설/모형 비판→실증근거→Lemma)과 인문학(재해석→근거 텍스트/맥락→Lemma)에서 어떻게 달리 전개되는지 분기 다이어그램으로 제시했습니다. 두 갈래가 아래의 Theorem에서 합류합니다.
 
 <div style="text-align: center;">
-  <img src="80%02_discipline_pathways.png" width="80%" height="auto">
+  <img src="/assets/images/02_discipline_pathways.png" width="80%" height="auto">
 </div> <br>
 
 
