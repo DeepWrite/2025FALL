@@ -237,3 +237,295 @@ permalink: /lectures/lemma-tables/
 </div> <br>
 
 
+---
+
+<h1>논증적 글쓰기: Lemma → Theorem 도해 모듈</h1>
+
+<p>이 페이지는 학부 강좌에서 바로 사용할 수 있도록, <strong>They Say → Anti-thesis(=Lemma) × n → Theorem</strong>의 논증 구조를
+분야별(사회과학/인문학)로 시각화하고, 수업 활동용 워크시트와 체크리스트를 함께 제공하는 <em>Just the Docs</em> 호환 HTML입니다.
+각 도해 아래에는 교사용/학생용 설명이 포함되어 있습니다.</p>
+
+<hr/>
+
+<h2 id="fig-1">도해 1. Lemma→Theorem 사다리</h2>
+
+<figure class="embed-responsive">
+  <figcaption><strong>핵심 개념도: “They Say → Anti-thesis(=Lemma) × n → Theorem”</strong></figcaption>
+  <svg viewBox="0 0 1000 620" width="100%" role="img" aria-labelledby="fig1-title fig1-desc">
+    <title id="fig1-title">논증 사다리</title>
+    <desc id="fig1-desc">기존 논지(They Say)에서 시작해, 반론(Anti-thesis)을 부분결론(Lemma)으로 정식화하고, 여러 Lemma를 종합해 Theorem으로 나아가는 흐름</desc>
+    <defs>
+      <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L6,3 z"></path>
+      </marker>
+      <style>
+        .box { fill: none; stroke: #333; stroke-width: 2; }
+        .arrow { stroke: #333; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+        .label { font: 16px sans-serif; }
+        .title { font: 20px sans-serif; font-weight: 700; }
+      </style>
+    </defs>
+
+    <text x="500" y="40" class="title" text-anchor="middle">Building an Argument: From Theses to Lemmas to Theorem</text>
+
+    <!-- Left column -->
+    <rect x="60" y="90" width="360" height="80" class="box"></rect>
+    <text x="240" y="125" class="label" text-anchor="middle">They Say</text>
+    <text x="240" y="150" class="label" text-anchor="middle">(분야의 확립된 논지)</text>
+
+    <line x1="240" y1="170" x2="240" y2="200" class="arrow"></line>
+
+    <rect x="60" y="210" width="360" height="70" class="box"></rect>
+    <text x="240" y="245" class="label" text-anchor="middle">I Say: Anti-thesis #1 → Lemma 1</text>
+
+    <line x1="240" y1="280" x2="240" y2="310" class="arrow"></line>
+
+    <rect x="60" y="320" width="360" height="70" class="box"></rect>
+    <text x="240" y="355" class="label" text-anchor="middle">They Say (관련 Thesis #2)</text>
+
+    <line x1="240" y1="390" x2="240" y2="420" class="arrow"></line>
+
+    <rect x="60" y="430" width="360" height="70" class="box"></rect>
+    <text x="240" y="465" class="label" text-anchor="middle">I Say: Anti-thesis #2 → Lemma 2</text>
+
+    <!-- Theorem on right -->
+    <rect x="580" y="250" width="360" height="120" class="box"></rect>
+    <text x="760" y="290" class="label" text-anchor="middle" style="font-weight:700">THEOREM (최종 주장)</text>
+    <text x="760" y="315" class="label" text-anchor="middle">Lemma 1..n의 종합</text>
+
+    <!-- Arrows from lemmas to theorem -->
+    <line x1="420" y1="245" x2="580" y2="290" class="arrow"></line>
+    <line x1="420" y1="465" x2="580" y2="320" class="arrow"></line>
+
+    <!-- Caption -->
+    <text x="500" y="580" class="label" text-anchor="middle">
+      각 Anti-thesis는 충분한 근거 제시를 통해 Lemma(부분결론)로 ‘승격’되고, 누적된 Lemma가 최종 결론(Theorem)을 지지합니다.
+    </text>
+  </svg>
+</figure>
+
+<div class="note">
+  <p><strong>설명</strong> — 이 도해는 글쓰기의 핵심 구조를 한눈에 보여줍니다. <em>They Say</em>(선행연구의 주장)를 정확하게 요약한 뒤,
+  그 주장에 대한 <em>Anti-thesis</em>(비판·보정)를 제시하고, 근거를 통해 <em>Lemma</em>(부분결론)로 정식화합니다.
+  이러한 Lemma들을 구조적으로 연결·종합하여 최종 결론(<em>Theorem</em>)을 제시합니다.</p>
+</div>
+
+<hr/>
+
+<h2 id="fig-2">도해 2. 분야별 경로(사회과학 vs 인문학)</h2>
+
+<figure class="embed-responsive">
+  <figcaption><strong>동일 구조의 분기: 사회과학 경로 vs 인문학 경로</strong></figcaption>
+  <svg viewBox="0 0 1000 680" width="100%" role="img" aria-labelledby="fig2-title fig2-desc">
+    <title id="fig2-title">분야별 논증 경로</title>
+    <desc id="fig2-desc">중앙의 확립된 논지에서 출발하여, 사회과학과 인문학의 서로 다른 방식으로 Anti-thesis→Evidence→Lemma를 경유해 Theorem에 도달</desc>
+    <defs>
+      <marker id="arrow2" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L6,3 z"></path>
+      </marker>
+      <style>
+        .box { fill: none; stroke: #333; stroke-width: 2; }
+        .arrow { stroke: #333; stroke-width: 2; fill: none; marker-end: url(#arrow2); }
+        .label { font: 16px sans-serif; }
+        .title { font: 20px sans-serif; font-weight: 700; }
+      </style>
+    </defs>
+
+    <text x="500" y="40" class="title" text-anchor="middle">Discipline-Specific Argument Pathways</text>
+
+    <!-- Central thesis -->
+    <rect x="380" y="80" width="240" height="80" class="box"></rect>
+    <text x="500" y="115" class="label" text-anchor="middle">They Say: 확립된 논지</text>
+    <text x="500" y="140" class="label" text-anchor="middle">(문헌고찰/지배적 견해)</text>
+
+    <!-- Split arrows -->
+    <line x1="500" y1="160" x2="220" y2="220" class="arrow"></line>
+    <line x1="500" y1="160" x2="780" y2="220" class="arrow"></line>
+
+    <!-- Left: Social Sciences -->
+    <rect x="90" y="220" width="260" height="80" class="box"></rect>
+    <text x="220" y="255" class="label" text-anchor="middle">사회과학: Anti-thesis=가설/모형 비판</text>
+    <line x1="220" y1="300" x2="220" y2="340" class="arrow"></line>
+
+    <rect x="90" y="340" width="260" height="80" class="box"></rect>
+    <text x="220" y="375" class="label" text-anchor="middle">근거: 데이터·실험·사례</text>
+    <line x1="220" y1="420" x2="220" y2="460" class="arrow"></line>
+
+    <rect x="90" y="460" width="260" height="80" class="box"></rect>
+    <text x="220" y="495" class="label" text-anchor="middle">Lemma: 부분결론(편향 발견, 모형 수정 등)</text>
+    <line x1="220" y1="540" x2="500" y2="600" class="arrow"></line>
+
+    <!-- Right: Humanities -->
+    <rect x="650" y="220" width="260" height="80" class="box"></rect>
+    <text x="780" y="255" class="label" text-anchor="middle">인문학: Anti-thesis=재해석</text>
+    <line x1="780" y1="300" x2="780" y2="340" class="arrow"></line>
+
+    <rect x="650" y="340" width="260" height="80" class="box"></rect>
+    <text x="780" y="375" class="label" text-anchor="middle">근거: 정밀 독해·맥락·이론 적용</text>
+    <line x1="780" y1="420" x2="780" y2="460" class="arrow"></line>
+
+    <rect x="650" y="460" width="260" height="80" class="box"></rect>
+    <text x="780" y="495" class="label" text-anchor="middle">Lemma: 부분결론(새 시각, 주제 재구성)</text>
+    <line x1="780" y1="540" x2="500" y2="600" class="arrow"></line>
+
+    <!-- Theorem bottom center -->
+    <rect x="380" y="560" width="240" height="80" class="box"></rect>
+    <text x="500" y="595" class="label" text-anchor="middle" style="font-weight:700">THEOREM / 최종 주장</text>
+    <text x="500" y="620" class="label" text-anchor="middle">여러 Lemma의 종합</text>
+  </svg>
+</figure>
+
+<div class="note">
+  <p><strong>설명</strong> — 사회과학과 인문학은 증거 유형과 전개 방식이 다르지만,
+  둘 다 <em>They Say → Anti-thesis → Evidence → Lemma → Theorem</em>이라는 같은 골격을 따릅니다.
+  사회과학은 데이터·실험 중심, 인문학은 텍스트·맥락 중심으로 근거를 구축한다는 차이가 있습니다.</p>
+</div>
+
+<hr/>
+
+<h2 id="fig-3">도해 3. 작성 워크시트(Outline Planner)</h2>
+
+<figure>
+  <figcaption><strong>수업 활동용: Lemma → Theorem 설계 표</strong></figcaption>
+  <table>
+    <thead>
+      <tr>
+        <th>Thesis (They Say)</th>
+        <th>Your Anti-thesis (I Say)</th>
+        <th>Evidence / Reasoning</th>
+        <th>Lemma (부분결론)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    </tbody>
+  </table>
+</figure>
+
+<div class="note">
+  <p><strong>설명</strong> — 각 행에 선행연구의 핵심 주장(Thesis)을 공정하게 요약하고, 그에 대한 자신의 Anti-thesis를 명시적으로 기술합니다.
+  이어 바로 근거(증거·논증)를 정리한 뒤, 해당 부분에서 도출되는 부분결론(Lemma)을 간단히 문장으로 적습니다.
+  완성 후, 여러 Lemma를 자연스럽게 이어주는 전환문장을 덧붙여 최종 결론(Theorem)으로 수렴시키세요.</p>
+</div>
+
+<hr/>
+
+<h2 id="fig-4">도해 4. 사례 맵: 기대효용(Thesis) → 전망이론(Theorem)</h2>
+
+<figure class="embed-responsive">
+  <figcaption><strong>행동의사결정 사례: EUT에 대한 연속 Anti-thesis → Prospect Theory</strong></figcaption>
+  <svg viewBox="0 0 1100 700" width="100%" role="img" aria-labelledby="fig4-title fig4-desc">
+    <title id="fig4-title">Prospect Theory 사례 맵</title>
+    <desc id="fig4-desc">기대효용이론에 대한 실증적 반례들을 각 Anti-thesis→Lemma로 제시하고, 이를 종합해 전망이론으로 귀결</desc>
+    <defs>
+      <marker id="arrow4" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L6,3 z"></path>
+      </marker>
+      <style>
+        .box { fill: none; stroke: #333; stroke-width: 2; }
+        .arrow { stroke: #333; stroke-width: 2; fill: none; marker-end: url(#arrow4); }
+        .label { font: 16px sans-serif; }
+        .title { font: 20px sans-serif; font-weight: 700; }
+      </style>
+    </defs>
+
+    <text x="550" y="40" class="title" text-anchor="middle">From Expected Utility to Prospect Theory</text>
+
+    <!-- Thesis -->
+    <rect x="60" y="90" width="420" height="100" class="box"></rect>
+    <text x="270" y="130" class="label" text-anchor="middle">They Say (Thesis): 기대효용이론</text>
+    <text x="270" y="155" class="label" text-anchor="middle">→ 인간은 위험하에서 기대효용을 극대화</text>
+
+    <!-- Lemma 1 -->
+    <rect x="620" y="90" width="420" height="100" class="box"></rect>
+    <text x="830" y="130" class="label" text-anchor="middle">Anti-thesis / Lemma 1: 확실성효과</text>
+    <text x="830" y="155" class="label" text-anchor="middle">→ EUT 예측 위반</text>
+    <line x1="480" y1="140" x2="620" y2="140" class="arrow"></line>
+
+    <!-- Lemma 2 -->
+    <rect x="60" y="310" width="420" height="100" class="box"></rect>
+    <text x="270" y="350" class="label" text-anchor="middle">Anti-thesis / Lemma 2: 확률가중</text>
+    <text x="270" y="375" class="label" text-anchor="middle">→ 희귀사건 과대평가</text>
+    <line x1="830" y1="190" x2="270" y2="310" class="arrow"></line>
+
+    <!-- Lemma 3 -->
+    <rect x="620" y="310" width="420" height="100" class="box"></rect>
+    <text x="830" y="350" class="label" text-anchor="middle">Anti-thesis / Lemma 3: 손실회피</text>
+    <text x="830" y="375" class="label" text-anchor="middle">→ v(손실) &gt; v(이익)</text>
+    <line x1="270" y1="410" x2="620" y2="360" class="arrow"></line>
+
+    <!-- Theorem -->
+    <rect x="330" y="500" width="440" height="140" class="box"></rect>
+    <text x="550" y="540" class="label" text-anchor="middle" style="font-weight:700">THEOREM / 전망이론 (Prospect Theory)</text>
+    <text x="550" y="565" class="label" text-anchor="middle">→ 가치함수: 이익(오목)/손실(볼록)</text>
+    <text x="550" y="590" class="label" text-anchor="middle">→ 확률가중함수</text>
+
+    <line x1="830" y1="410" x2="720" y2="500" class="arrow"></line>
+    <line x1="270" y1="410" x2="380" y2="500" class="arrow"></line>
+  </svg>
+</figure>
+
+<div class="note">
+  <p><strong>설명</strong> — 각 Anti-thesis는 고전 이론(EUT)의 특정 가정이나 예측을 정밀하게 겨냥합니다.
+  각각의 반례가 <em>Lemma</em>(부분결론)로 축적되면서, 최종적으로 새로운 모형(Prospect Theory)을 정당화하게 됩니다.</p>
+</div>
+
+<hr/>
+
+<h2 id="fig-5">도해 5. 체크리스트 (Do / Don’t)</h2>
+
+<figure>
+  <figcaption><strong>Anti-thesis를 Lemma로 만드는 실천 체크리스트</strong></figcaption>
+  <table>
+    <thead>
+      <tr>
+        <th>Do (좋은 습관)</th>
+        <th>Don't (흔한 함정)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>먼저 선행연구의 주장(They Say)을 공정하게 요약한다.</td>
+        <td>기존 연구를 왜곡하거나 허수아비 때리기를 하지 않는다.</td>
+      </tr>
+      <tr>
+        <td>구체적 가정 하나를 겨냥해 정밀한 Anti-thesis를 제시한다.</td>
+        <td>대상이 불분명한 막연한 반대만 제시하지 않는다.</td>
+      </tr>
+      <tr>
+        <td>Anti-thesis 직후 근거(데이터·분석·예시)를 곧바로 제시한다.</td>
+        <td>근거 없이 주장만 나열하지 않는다.</td>
+      </tr>
+      <tr>
+        <td>그 부분에서의 부분결론(Lemma)을 문장으로 명시한다.</td>
+        <td>핵심 부분결론을 독자가 알아서 추론하도록 방치하지 않는다.</td>
+      </tr>
+      <tr>
+        <td>전환문장으로 Lemma들 사이의 누적적 연결을 분명히 한다.</td>
+        <td>서로 무관한 포인트를 나열식으로 나열하지 않는다.</td>
+      </tr>
+      <tr>
+        <td>마지막에 Lemma들을 종합하여 Theorem(최종 주장)을 명확히 제시한다.</td>
+        <td>앞 내용과 연결되지 않는 ‘깜짝 결론’을 던지지 않는다.</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<div class="note">
+  <p><strong>설명</strong> — 수업 피드백이나 자기 점검용으로 활용하세요. 특히 <em>“Lemma를 명시적으로 문장화”</em>하는 습관이
+  최종 결론의 설득력을 결정합니다.</p>
+</div>
+
+<hr/>
+
+<h2 id="usage">수업 활용 팁</h2>
+<ul>
+  <li>도해 1–2를 오리엔테이션에서 설명한 뒤, 도해 3 워크시트를 과제 초안 작성에 사용하세요.</li>
+  <li>도해 4와 같은 <em>사례 맵</em>을 과목 주제에 맞게 추가 제작해 학습 전이를 촉진하세요(예: Geertz/Foucault/Said/Butler 버전).</li>
+  <li>도해 5 체크리스트를 평가 루브릭과 함께 배포하면 피드백의 일관성이 높아집니다.</li>
+</ul>
