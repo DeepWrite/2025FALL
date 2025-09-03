@@ -15,9 +15,9 @@ permalink: /syllabus/about/
 ---
 
 > 이 문서는 손제연 교수의 2025년 2학기 대학글쓰기2 강의의 공식 가이드입니다. 
-> 강의 일정, 과제 제출 방식, 출석 기준 등 전체 내용을 [오리엔테이션(1주차 1차시)]({{site.baseurl}}/orientation)에서 확인할 수 있으니, **모든 질문은 오리엔테이션 내용을 숙독 후**에  하기 바랍니다.
+> 강의 일정, 과제 제출 방식, 출석 기준 등 전체 내용을 [오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation)에서 확인할 수 있으니, **모든 질문은 오리엔테이션 내용을 숙독 후**에  하기 바랍니다.
 
-[강의계획 및 주의사항–오리엔테이션(1주차 1차시)]({{site.baseurl}}/orientation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[강의계획 및 주의사항–오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## 강의 개요
 

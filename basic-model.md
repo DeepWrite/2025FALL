@@ -1,5 +1,5 @@
 ---
-title: 기본 논증문 모델
+title: 기본 논증문 모델(1주차 1차시)
 layout: home
 nav_order: 40
 permalink: /basic-model/

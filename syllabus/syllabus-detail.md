@@ -15,10 +15,10 @@ permalink: /syllabus/detail/
 ### 1주차 (2025.9.1 ~ 9.7)
 
 - 1차시
-  - **강의**: [기본 논증문 모델]({{site.baseurl}}/basic-model/lemma)
+  - **강의**: [기본 논증문 모델(1주차 1차시)]({{site.baseurl}}/basic-model/lemma)
 
 - 2차시: 논증적 글쓰기에 대한 이론적 이해, 1차 조편성
-  - **오리엔테이션**: [오리엔테이션(1주차 1차시)]({{site.baseurl}}/orientation)
+  - **오리엔테이션**: [오리엔테이션(1주차 2차시)]({{site.baseurl}}/orientation)
   - **강의**: [1주차 (2차시) 논증적 글쓰기]({{site.baseurl}}/lectures/week01-02)
   - **[마크다운 문서 작성법]({{site.baseurl}}/tools/markdown)** 설명
 
