@@ -1,7 +1,7 @@
 ---
 title: 과제 제출 방법
 layout: home
-nav_order: 6
+nav_order: 60
 permalink: /assignments/
 ---
 

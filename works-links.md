@@ -1,7 +1,7 @@
 ---
 title: 반별 제출 과제 열람
 layout: home
-nav_order: 12
+nav_order: 120
 permalink: /works/
 ---
 

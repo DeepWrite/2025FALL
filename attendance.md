@@ -1,7 +1,7 @@
 ---
 title: 결석 및 공결 처리
 layout: home
-nav_order: 7
+nav_order: 70
 permalink: /attendance/
 ---
 
