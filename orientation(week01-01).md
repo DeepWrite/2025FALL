@@ -1,5 +1,5 @@
 ---
-title: 오리엔테이션(1주차 (1차시))
+title: 오리엔테이션(1주차 1차시)
 layout: home
 nav_order: 45
 permalink: /orientation/

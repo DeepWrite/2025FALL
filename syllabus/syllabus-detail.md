@@ -15,7 +15,7 @@ permalink: /syllabus/detail/
 ### 1주차 (2025.9.1 ~ 9.7)
 
 - 1차시
-  - **오리엔테이션**: [1주차 (1차시) 오리엔테이션]({{site.baseurl}}/lectures/week01-01)
+  - **오리엔테이션**: [1주차 (1차시) 오리엔테이션]({{site.baseurl}}/orientation)
 
 - 2차시: 논증적 글쓰기에 대한 이론적 이해, 1차 조편성
   - **강의**: [1주차 (2차시) 논증적 글쓰기]({{site.baseurl}}/lectures/week01-02)
