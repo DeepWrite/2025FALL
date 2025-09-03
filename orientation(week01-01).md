@@ -2,7 +2,6 @@
 title: 오리엔테이션(1주차 (1차시))
 layout: home
 nav_order: 45
-parent: 강의내용
 permalink: /orientation/
 ---
 
